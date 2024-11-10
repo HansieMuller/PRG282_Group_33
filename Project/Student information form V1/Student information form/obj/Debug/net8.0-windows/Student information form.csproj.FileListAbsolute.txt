@@ -1,0 +1,16 @@
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.csproj.GenerateResource.cache
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.AssemblyInfo.cs
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\Student information form\Student information form\bin\Debug\net8.0-windows\Student information form.exe
+C:\Users\allan\source\repos\Student information form\Student information form\bin\Debug\net8.0-windows\Student information form.deps.json
+C:\Users\allan\source\repos\Student information form\Student information form\bin\Debug\net8.0-windows\Student information form.runtimeconfig.json
+C:\Users\allan\source\repos\Student information form\Student information form\bin\Debug\net8.0-windows\Student information form.dll
+C:\Users\allan\source\repos\Student information form\Student information form\bin\Debug\net8.0-windows\Student information form.pdb
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.dll
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\refint\Student information form.dll
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.pdb
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student information form.genruntimeconfig.cache
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\ref\Student information form.dll
+C:\Users\allan\source\repos\Student information form\Student information form\obj\Debug\net8.0-windows\Student_information_form.Form1.resources
